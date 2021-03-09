@@ -43,8 +43,8 @@ for testing before adding it to your `.zshrc`.
 #### [Oh-My-Zsh](http://ohmyz.sh/)
 
 1. `git clone https://github.com/daodao97/git-pr.git $ZSH_CUSTOM/plugins/git-open`
-1. Add `git-open` to your plugin list - edit `~/.zshrc` and change
-   `plugins=(...)` to `plugins=(... git-open)`
+1. Add `git-pr` to your plugin list - edit `~/.zshrc` and change
+   `plugins=(...)` to `plugins=(... git-pr)`
 
 #### [Zgen](https://github.com/tarjoilija/zgen)
 
