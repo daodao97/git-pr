@@ -4,7 +4,7 @@
 Type `git pr` to open the repo `pull request url` (GitHub, GitLab, Gitee) in your browser.
 
 
-![demo](https://gitee.com/daodao97/asset/raw/master/imgs/git-pr.gif)
+![demo](./git-pr.gif)
 
 
 ## Usage
@@ -21,7 +21,6 @@ git pr  # Open the page for current branch pull request to master branch url in 
 git pr relesse # Open the page for current branch pull request to target branch [release] url in browser
 ```
 
-echo 
 
 ## Install for ZSH
 
