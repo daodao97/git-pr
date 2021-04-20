@@ -1,7 +1,7 @@
 # git-pr
 
 
-Type `git pr` to open the repo `pull request url` (GitHub, GitLab, Gitee) in your browser.
+Type `git pr` to open the repo `pull|merge request url` (GitHub, GitLab, Gitee) in your browser.
 
 
 ![demo](./git-pr.gif)
