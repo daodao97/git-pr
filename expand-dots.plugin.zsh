@@ -1,6 +1,6 @@
 function expand-dots() {
     local MATCH
-    if [[ $LBUFFER =~ '\.\.\.+' ]]; then
+    if [[ $LBUFFER =~ '^\.\.\.+$' ]]; then
         LBUFFER=$LBUFFER:fs%\.\.\.%../..%
         LBUFFER="cd $LBUFFER"
     fi
